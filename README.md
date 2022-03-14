@@ -3,7 +3,7 @@ Responsive blog with an icon to switch between light and dark themes <br>
 
 This is not a project of mine though. I'm using the original project as a case for web development study, <br>
 therefore isn't of my interest to just copy over the original content, instead, my goal here is gain experience <br>
-for web design and to learn how these beautiful blogs are made, and what features are the best option to this type of page, <br>
+for web design and to learn how these beautiful blogs are made, and what features are the best option to this type of page,
 from what are the best external resources such as icons or libraries to the code itself. <br>
 <br>
 As i previously stated, my main goal here is to learn the entire process of the development of such web pages,<br>
