@@ -1,4 +1,4 @@
-<h1>Direct link:</h1><br>
+<h1>Direct link:</h1>
   <h3>https://caio-light-dark-themes-blog.netlify.app/</h3>
 
 <hr>
