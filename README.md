@@ -1,3 +1,7 @@
+<h1>Direct link:</h1><br>
+  <h3>https://caio-light-dark-themes-blog.netlify.app/</h3>
+
+<hr>
 Hello and welcome! This is the Github repository for the project titled as:
 Responsive blog with an icon to switch between light and dark themes <br>
 
